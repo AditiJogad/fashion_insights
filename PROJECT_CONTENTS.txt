@@ -1,0 +1,11 @@
+Maison Mode — Fashion Insights project bundle
+
+app.py: Streamlit web app
+requirements.txt: Python dependencies
+README.md: Project overview and setup instructions
+fashion_dataset_complete.csv: compatible sample dataset used by app.py
+data/fashion_dataset_complete.csv: copy of the sample dataset in a data folder
+notebooks/PRO_SI_02_practicals.py: original practicals source script supplied in this conversation
+.gitignore: common files to exclude from Git
+
+IMPORTANT: The CSV included here is a generated compatible sample dataset, not a recovered copy of the CSV already uploaded to your GitHub repository. If your GitHub CSV contains your final original data, keep that original file when uploading this folder.
